@@ -71,7 +71,7 @@ const AddProduct = () => {
           required
         />
         <Button type="submit" variant="contained">
-          Submit
+          Submit....
         </Button>
       </Box>
     </Paper>
